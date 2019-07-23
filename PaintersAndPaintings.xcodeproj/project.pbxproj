@@ -15,6 +15,7 @@
 		236C126C2234587B0072197B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 236C126A2234587B0072197B /* LaunchScreen.storyboard */; };
 		236C12772234587B0072197B /* PaintersAndPaintingsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236C12762234587B0072197B /* PaintersAndPaintingsTests.swift */; };
 		236C12822234587B0072197B /* PaintersAndPaintingsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236C12812234587B0072197B /* PaintersAndPaintingsUITests.swift */; };
+		236C1292223470C50072197B /* Art.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236C1291223470C50072197B /* Art.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		236C127D2234587B0072197B /* PaintersAndPaintingsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PaintersAndPaintingsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		236C12812234587B0072197B /* PaintersAndPaintingsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintersAndPaintingsUITests.swift; sourceTree = "<group>"; };
 		236C12832234587B0072197B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		236C1291223470C50072197B /* Art.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Art.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				236C12682234587B0072197B /* Assets.xcassets */,
 				236C126A2234587B0072197B /* LaunchScreen.storyboard */,
 				236C126D2234587B0072197B /* Info.plist */,
+				236C1291223470C50072197B /* Art.swift */,
 			);
 			path = PaintersAndPaintings;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				236C1264223458780072197B /* DetailViewController.swift in Sources */,
 				236C1262223458780072197B /* MasterViewController.swift in Sources */,
 				236C1260223458780072197B /* AppDelegate.swift in Sources */,
+				236C1292223470C50072197B /* Art.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
